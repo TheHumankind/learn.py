@@ -8,11 +8,17 @@ Day 1:
 Day 2: 
 1) User input
 2) Math functions
-3) string slicing
+3) String slicing
 
 Day 3:
-1) if statement
-2) logical operators
-3) while loop
-4) for loop
-5) nested loops
+1) If statement
+2) Logical operators
+3) While loop
+4) For loop
+5) Nested loops
+
+Day 4: 
+1) Loop control statements
+2) Lists
+3) 2D lists
+4) Tuples
