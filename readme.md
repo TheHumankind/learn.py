@@ -22,3 +22,9 @@ Day 4:
 2) Lists
 3) 2D lists
 4) Tuples
+
+Day 5: 
+1) Sets
+2) Dictionaries
+3) Index operator
+4) Functions
