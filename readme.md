@@ -28,3 +28,12 @@ Day 5:
 2) Dictionaries
 3) Index operator
 4) Functions
+
+Day 6: 
+1) Return statement
+2) Keyword arguments
+3) Nested functions calls
+4) Variable scope
+5) Arguments function parameter
+6) Kwargs
+7) String format
