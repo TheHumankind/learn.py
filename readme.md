@@ -37,3 +37,11 @@ Day 6:
 5) Arguments function parameter
 6) Kwargs
 7) String format
+
+Day 7:
+1) Random numbers
+2) Exception handling
+3) Basic File Detection
+4) File reading
+5) File writing
+6) File copying
