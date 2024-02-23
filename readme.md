@@ -45,3 +45,8 @@ Day 7:
 4) File reading
 5) File writing
 6) File copying
+
+Day 8:
+1) File moving
+2) File deleting
+3) Modules
