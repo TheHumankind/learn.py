@@ -50,3 +50,7 @@ Day 8:
 1) File moving
 2) File deleting
 3) Modules
+
+Day 9 (practise): 
+1) Rock paper scissors game
+2) Quiz game
