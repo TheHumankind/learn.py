@@ -54,3 +54,9 @@ Day 8:
 Day 9 (practise): 
 1) Rock paper scissors game
 2) Quiz game
+
+Day 10:
+1) OOP
+2) Class variables
+3) Inheritance 
+4) Multi-level inheritance
