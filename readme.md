@@ -60,3 +60,9 @@ Day 10:
 2) Class variables
 3) Inheritance 
 4) Multi-level inheritance
+
+Day 11: 
+1) Multiple inheritance 
+2) Method overriding 
+3) Method chaining 
+4) Super function
