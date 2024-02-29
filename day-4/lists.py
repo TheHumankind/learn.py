@@ -1,4 +1,6 @@
 food = ["pizza", "hamburger", "hotdog", "spaghetti"]
+food_2 = list()
+
 
 print(food[1])
 
