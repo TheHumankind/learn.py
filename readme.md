@@ -66,3 +66,11 @@ Day 11:
 2) Method overriding 
 3) Method chaining 
 4) Super function
+
+Day 12: 
+1) Abstract-class
+2) Objects as arguments
+3) Duck typing
+4) Walrus operator
+5) Functions as variables
+6) Lambda functions
