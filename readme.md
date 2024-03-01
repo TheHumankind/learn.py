@@ -74,3 +74,6 @@ Day 12:
 4) Walrus operator
 5) Functions as variables
 6) Lambda functions
+
+Day 13:
+1) Sort
