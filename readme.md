@@ -77,3 +77,8 @@ Day 12:
 
 Day 13:
 1) Sort
+
+Day 14: 
+1) Map
+2) Filter
+3) Reduce
