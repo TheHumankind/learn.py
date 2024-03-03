@@ -82,3 +82,7 @@ Day 14:
 1) Map
 2) Filter
 3) Reduce
+
+Day 15:
+1) List comprehensions
+2) Dictionary comprehensions
