@@ -86,3 +86,11 @@ Day 14:
 Day 15:
 1) List comprehensions
 2) Dictionary comprehensions
+
+Day 16:
+1) Zip
+2) Name and main
+3) Time
+4) Threading
+5) Deamon threads
+6) Multiprocessing
