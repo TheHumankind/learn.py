@@ -94,3 +94,7 @@ Day 16:
 4) Threading
 5) Deamon threads
 6) Multiprocessing
+
+Day 17:
+1) GUI Windows
+2) Label
