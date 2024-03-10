@@ -98,3 +98,6 @@ Day 16:
 Day 17:
 1) GUI Windows
 2) Label
+
+Day 18:
+1) Buttons
