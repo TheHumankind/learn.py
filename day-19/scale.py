@@ -16,7 +16,7 @@ scale = Scale(window,
               troughcolor='#00ff00',
               showvalue=False,
               resolution=5,
-              fg='#00ff00',
+              fg='#00ff10',
               bg='#000000')
 scale.pack()
 
