@@ -101,3 +101,9 @@ Day 17:
 
 Day 18:
 1) Buttons
+2) Entrybox
+3) Checkbox
+
+Day 19:
+1) Radio button
+2) Scale
