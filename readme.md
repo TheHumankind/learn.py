@@ -107,3 +107,6 @@ Day 18:
 Day 19:
 1) Radio button
 2) Scale
+
+Day 20:
+1) 
