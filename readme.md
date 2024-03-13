@@ -109,4 +109,5 @@ Day 19:
 2) Scale
 
 Day 20:
-1) 
+1) Open a file (with dialog)
+2) Save a file (with dialog)
