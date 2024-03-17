@@ -115,3 +115,7 @@ Day 20:
 Day 21:
 1) Open a file (with dialog)
 2) Save a file (with dialog)
+
+Day 22: 
+1) Menubar
+2) Frames
